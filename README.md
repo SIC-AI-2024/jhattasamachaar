@@ -63,7 +63,24 @@ While you may run the server, but for fully setting it up, you may require a `.e
 
 ### Frontend
 
-*Amrit, your work remains.*
+Ensure you have the following installed:
+
+- Flutter (Stable Channel, version 3.10+).
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/amritsharma01/jhattaamachaar
+   cd jhattaamachaar-app
+
+2. Install Flutter Dependencies:
+    ```bash
+    flutter pub get
+
+3. Run the app:
+    ```bash
+    flutter run
+
+And All Set. Enjoy!
 
 ### Dataend
 
