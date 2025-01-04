@@ -70,7 +70,7 @@ While you may run the server, but for fully setting it up, you may require a `.e
 The dataend folder is structured using a cookie-cutter data template. It includes:
 
 - Notebooks for all stages of the project.
-- The dataset and model files are not included in the repository but can be accessed via this [Google Drive link](https://drive.google.com/drive/folders/1Iau3EdYNw5o2pF_1uKp2aqtW9AVByHJS?usp=sharing) upon request.
+- The dataset and model files are not included in the repository but can be accessed via this [Google Drive link](https://drive.google.com/drive/folders/1Iau3EdYNw5o2pF_1uKp2aqtW9AVByHJS?usp=sharing) upon request, or with campus id, there is complete access.
 
 ---
 
