@@ -69,7 +69,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/amritsharma01/jhattaamachaar
+   git clone https://github.com/amritsharma01/jhattasamachaar.git
    cd jhattaamachaar-app
 
 2. Install Flutter Dependencies:
